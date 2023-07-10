@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:lg2/nuxtmodule-consent-gtm.git"
+    "url": "git+ssh://git@github.com/lg2/nuxtmodule-consent-gtm.git"
   },
   "author": "romain avalle",
   "license": "ISC",
