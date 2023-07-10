@@ -1,3 +1,3 @@
 #nuxtmodule-consent-gtm
 
-to be plcae before gtm module
+to be placed before gtm module
