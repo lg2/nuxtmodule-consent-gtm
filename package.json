@@ -1,0 +1,24 @@
+{
+  "name": "nuxtmodule-consent-gtm",
+  "version": "0.0.1",
+  "description": "consent gtm nuxt module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:lg2/nuxtmodule-consent-gtm.git"
+  },
+  "author": "romain avalle",
+  "license": "ISC",
+  "homepage": "https://github.com:lg2/nuxtmodule-consent-gtm#readme",
+  "bugs": {
+    "url": "https://github.com:lg2/nuxtmodule-consent-gtm/issues"
+  },
+  "keywords": [
+    "nuxt",
+    "consent",
+    "gtm"
+  ]
+}
